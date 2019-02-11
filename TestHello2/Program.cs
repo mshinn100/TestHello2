@@ -12,7 +12,9 @@ namespace TestHello2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("New change1");
             Console.ReadLine(); //Pause
+            
         }
     }
 }
